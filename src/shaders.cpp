@@ -65,7 +65,7 @@ int main() {
 	glBufferData(GL_ARRAY_BUFFER, sizeof(vertices), vertices, GL_STATIC_DRAW);
 
 	// Load shader
-	Shader ourShader("../shaders/shader.vs", "../shaders/shader.fs");
+	Shader ourShader("../shaders/simpleColor.vs", "../shaders/timeBasedColor.fs");
 
 	// Set position attribute
 	glVertexAttribPointer(0, 3, GL_FLOAT, GL_FALSE, 6 * sizeof(float), (void*)0);

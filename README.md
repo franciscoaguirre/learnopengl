@@ -1,6 +1,6 @@
 # learnopengl
 
-Code for learnopengl
+Code for [learnopengl](https://learnopengl.com)
 
 ## Shaders
 

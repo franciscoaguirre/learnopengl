@@ -6,6 +6,6 @@ Code for [learnopengl](https://learnopengl.com)
 
 ![Shader magic](demo/shaders.gif)
 
-## Textures
+## Textures and transformations
 
-![Two mixed textures](demo/textures.jpg)
+![Two mixed textures rotating](demo/transformations.gif)
